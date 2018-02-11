@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tris</string>
+    <string name="selezionaModalita">Tic Tac Toe!</string>
+    <string name="turno">Turno di: </string>
+    <string name="nonLibera">Mossa impossibile da effettuare</string>
+    <string name="nonTurno">Attendi la mossa dell^avversario!</string>
+    <string name="haVinto">Ha vinto </string>
+    <string name="pareggio">PAREGGIO!</string>
+    <string name="restartButton">Nuova Partita</string>
+</resources>
